@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+@model dynamic
+@model IEnuumerable<DoeacoesApp.Models.Doador>
+    </DoeacoesApp.Models.Doador>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h2> Lista de Doadores </h2>
+    <a asp-action="Create" class="btn btn-primary"> Novo Doador</a>
+    <table class="table table-bordered mt-3">
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Telefone</th>
+            <th>Endereço</th>
+            <th>Ações</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.Nome</td>
+            <td>@item.Email</td>
+            <td>@item.Telefone</td>
+            <td>@item.Endereco</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning"> Editar </a>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info"> Detalhes </a>
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"> Excluir </a>
+            </td>
+        </tr>
+        }
+    </table>
+</body>
+</html>
