@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rubqu\\source\\repos\\estagio-sis-do-bem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\rubqu\\source\\repos\\estagio-sis-do-bem\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\rubqu\\source\\repos\\estagio-sis-do-bem\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\rubqu\\source\\repos\\estagio-sis-do-bem\\Models\\Enums.cs",
-              "RelativeDocumentMoniker": "Models\\Enums.cs",
-              "ToolTip": "C:\\Users\\rubqu\\source\\repos\\estagio-sis-do-bem\\Models\\Enums.cs",
-              "RelativeToolTip": "Models\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:46:40.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\rubqu\\source\\repos\\estagio-sis-do-bem\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\rubqu\\source\\repos\\estagio-sis-do-bem\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:34:19.255Z",
-              "EditorCaption": ""
             }
           ]
         }
