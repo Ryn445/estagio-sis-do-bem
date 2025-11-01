@@ -20,3 +20,110 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.navbar {
+    background: linear-gradient(90deg, #5e60ce, #64dfdf);
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important;
+    font-weight: 500;
+}
+
+    .nav-link:hover, .dropdown-item:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        color: #fff !important;
+    }
+
+.dropdown-menu {
+    background-color: #5e60ce;
+    border: none;
+}
+
+.dropdown-item {
+    color: #fff;
+}
+/* ==========================
+   ESTILO PERSONALIZADO SIS DO BEM
+   ========================== */
+
+/* Navbar */
+.navbar {
+    background: linear-gradient(90deg, #5e60ce, #64dfdf);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important;
+    font-weight: 500;
+}
+
+    .nav-link:hover, .dropdown-item:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        color: #fff !important;
+    }
+
+.dropdown-menu {
+    background-color: #5e60ce;
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.dropdown-item {
+    color: #fff;
+}
+
+/* Container principal */
+.container {
+    max-width: 1200px;
+}
+
+/* Botões */
+.btn-primary {
+    background-color: #5e60ce;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #4e57c8;
+    }
+
+.btn-success {
+    background-color: #64dfdf;
+    border: none;
+    color: #003049;
+}
+
+    .btn-success:hover {
+        background-color: #56c7c7;
+    }
+
+/* Card de formulários */
+.card {
+    border-radius: 1rem;
+}
+
+.card-header {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+/* Tabelas */
+.table {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+    .table thead {
+        background: #5e60ce;
+        color: #fff;
+    }
+
+/* Rodapé */
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+    text-align: center;
+    color: #6c757d;
+    font-size: 0.9rem;
+}

@@ -1,8 +1,87 @@
 ﻿@{
-    ViewData["Title"] = "Estoque Sis do Bem";
+    ViewData["Title"] = "Controle de Estoque";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Estoque</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold text-primary">📦 Controle de Estoque</h2>
+        <a asp-controller="Estoque" asp-action="Create" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Novo Item
+        </a>
+    </div>
+
+    <!-- Caixa de busca -->
+    <div class="input-group mb-3 shadow-sm">
+        <input type="text" class="form-control" placeholder="Buscar produto..." id="searchInput">
+        <button class="btn btn-outline-primary" type="button" id="btnBuscar">Buscar</button>
+    </div>
+
+    <!-- Tabela de estoque -->
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+            <table class="table table-striped table-hover mb-0 align-middle">
+                <thead class="table-primary">
+                    <tr>
+                        <th>Produto</th>
+                        <th>Categoria</th>
+                        <th>Quantidade</th>
+                        <th>Validade</th>
+                        <th>Status</th>
+                        <th class="text-center">Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Exemplo estático (depois substituímos por dados reais) -->
+                    <tr>
+                        <td>Arroz 5kg</td>
+                        <td>Alimentos</td>
+                        <td>25</td>
+                        <td>12/2025</td>
+                        <td><span class="badge bg-success">Válido</span></td>
+                        <td class="text-center">
+                            <a class="btn btn-sm btn-warning" href="#"><i class="bi bi-pencil"></i></a>
+                            <a class="btn btn-sm btn-danger" href="#"><i class="bi bi-trash"></i></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Feijão 1kg</td>
+                        <td>Alimentos</td>
+                        <td>18</td>
+                        <td>05/2025</td>
+                        <td><span class="badge bg-warning text-dark">Próximo do vencimento</span></td>
+                        <td class="text-center">
+                            <a class="btn btn-sm btn-warning" href="#"><i class="bi bi-pencil"></i></a>
+                            <a class="btn btn-sm btn-danger" href="#"><i class="bi bi-trash"></i></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Leite 1L</td>
+                        <td>Bebidas</td>
+                        <td>5</td>
+                        <td>10/2024</td>
+                        <td><span class="badge bg-danger">Vencido</span></td>
+                        <td class="text-center">
+                            <a class="btn btn-sm btn-warning" href="#"><i class="bi bi-pencil"></i></a>
+                            <a class="btn btn-sm btn-danger" href="#"><i class="bi bi-trash"></i></a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
 </div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.js"></script>
+    <script>
+        // Exemplo: busca simples no front-end
+        document.getElementById("btnBuscar").addEventListener("click", function () {
+            const termo = document.getElementById("searchInput").value.toLowerCase();
+            const linhas = document.querySelectorAll("tbody tr");
+            linhas.forEach(linha => {
+                const texto = linha.textContent.toLowerCase();
+                linha.style.display = texto.includes(termo) ? "" : "none";
+            });
+        });
+    </script>
+}

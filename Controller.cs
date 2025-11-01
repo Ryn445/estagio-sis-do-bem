@@ -1,14 +1,12 @@
-﻿using System;
-using Microsoft.AspNetCore.mvc;
-using DoaçõesApp.Data;
-using doaçõesApp.Models;
+﻿using DoaçõesApp.Data;
+using Microsoft.AspNetCore.Mvc;
 
 namespace SistemaONG.Controllers
 {
     public class CategoriaController : Controller
     {
-        private readonly AppContext _context;
-        public CategoriaController(AppContext context)
+        private readonly System.AppContext _context;
+        public CategoriaController(System.AppContext context)
         {
             _context = context;
         }

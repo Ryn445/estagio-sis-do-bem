@@ -15,7 +15,7 @@ namespace SistemaONG.Models
         public string Email { get; set; }
         public string Telefone { get; set; }  
         public string Endereco { get; set; }
-        public enum  TipoDeDoacao { get; set; } = Material/Valor
+        public enum TipoDeDoacao { get; set; } = Material/Valor
         public DateTime DataDaDoacao { get; set; }
         public decimal ValorDaDoacao { get; set; }
         public string Observacoes { get; set; }

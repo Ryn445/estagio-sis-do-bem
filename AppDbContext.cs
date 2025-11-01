@@ -1,6 +1,6 @@
-﻿using System;
-using Microsoft.entityFrameworkCore;
-using  DoaçõesApp.Models;
+﻿using SistemaONG.Data;
+using SistemaONG.Models;
+using SistemaONG.Controllers;
 
 namespace DoaçõesApp.Data
 {
