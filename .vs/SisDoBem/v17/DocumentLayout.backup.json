@@ -1,51 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\doador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:doador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\appdbcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:appdbcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\views\\doador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:views\\doador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wesle\\AppData\\Local\\SourceServer\\3252e84cb6bbad763e1b72901c9cdf72917a533b7d2665cc5c5fc6392caed029\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\views\\estoque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:views\\estoque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|c:\\users\\wesle\\onedrive\\documentos\\github\\estagio-sis-do-bem\\views\\doador\\index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7888-5D8F-4C36-AD75-BDCF8C63173D}|SisDoBem.csproj|solutionrelative:views\\doador\\index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\rubqu\\source\\repos\\estagio-sis-do-bem\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -53,12 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -68,138 +20,8 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Doador.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Doador.cs",
-              "RelativeDocumentMoniker": "Doador.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Doador.cs",
-              "RelativeToolTip": "Doador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T00:28:40.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Controller.cs",
-              "RelativeDocumentMoniker": "Controller.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Controller.cs",
-              "RelativeToolTip": "Controller.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T00:22:44.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext1.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\AppDbContext1.cs",
-              "RelativeDocumentMoniker": "AppDbContext1.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\AppDbContext1.cs",
-              "RelativeToolTip": "AppDbContext1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T00:17:04.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Doador\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doador\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Doador\\Index.cshtml",
-              "RelativeToolTip": "Views\\Doador\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-01T00:09:06.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:45:56.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\AppData\\Local\\SourceServer\\3252e84cb6bbad763e1b72901c9cdf72917a533b7d2665cc5c5fc6392caed029\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\3252e84cb6bbad763e1b72901c9cdf72917a533b7d2665cc5c5fc6392caed029\\Program.cs",
-              "ToolTip": "C:\\Users\\wesle\\AppData\\Local\\SourceServer\\3252e84cb6bbad763e1b72901c9cdf72917a533b7d2665cc5c5fc6392caed029\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\3252e84cb6bbad763e1b72901c9cdf72917a533b7d2665cc5c5fc6392caed029\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:45:57.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADQAAAAAAAAAAAAuwIEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-31T17:07:16.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Doador\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doador\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Doador\\Index.cshtml",
-              "RelativeToolTip": "Views\\Doador\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T16:59:03.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Estoque\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Estoque\\Index.cshtml",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Estoque\\Index.cshtml",
-              "RelativeToolTip": "Views\\Estoque\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T16:49:42.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T16:47:13.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AppDbContext.cs",
-              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\GitHub\\estagio-sis-do-bem\\AppDbContext.cs",
-              "RelativeToolTip": "AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T14:53:44.731Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
