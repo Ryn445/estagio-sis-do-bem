@@ -1,4 +1,4 @@
-﻿namespace SistemaONG.Controllers
+﻿namespace SisDoBem.Models
 {
     public class Categoria
     {

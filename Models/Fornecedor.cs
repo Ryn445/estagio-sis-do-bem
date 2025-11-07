@@ -1,4 +1,4 @@
-﻿namespace DoaçõesApp.Data
+﻿namespace SisDoBem.Models
 {
     public class Fornecedor
     {
