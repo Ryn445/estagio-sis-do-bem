@@ -28,6 +28,26 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Campanhas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFuaGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Campanhas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFuaGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Campanhas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFuaGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Campanhas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFuaGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Campanhas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFuaGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +62,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/rubqu/source/repos/estagio-sis-do-bem/Views/_ViewImports.cshtml]
