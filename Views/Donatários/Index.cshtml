@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Cadastro de Donatários";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold text-primary">🏠 Donatários</h2>
+        <a asp-controller="Donatario" asp-action="Create" class="btn btn-success">
+            <i class="bi bi-person-plus"></i> Novo Donatário
+        </a>
+    </div>
+
+    <!-- Caixa de busca -->
+    <div class="input-group mb-3 shadow-sm">
+        <input type="text" class="form-control" placeholder="Buscar donatário..." id="searchDonatario">
+        <button class="btn btn-outline-primary" type="button" id="btnBuscarDonatario">Buscar</button>
+    </div>
+
+    <!-- Tabela de donatários -->
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+            <table class="table table-striped table-hover mb-0 align-middle">
+                <thead class="table-primary">
+                    <tr>
+                        <th>Nome</th>
+                        <th>CPF / CNPJ</th>
+                        <th>Telefone</th>
+                        <th>Endereço</th>
+                        <th>Observações</th>
+                        <th class="text-center">Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Exemplo estático -->
+                    <tr>
+                        <td>João Almeida</td>
+                        <td>111.222.333-44</td>
+                        <td>(61) 98765-4321</td>
+                        <td>Rua das Flores, 120</td>
+                        <td>Família cadastrada no programa</td>
+                        <td class="text-center">
+                            <a class="btn btn-sm btn-warning" href="#"><i class="bi bi-pencil"></i></a>
+                            <a class="btn btn-sm btn-danger" href="#"><i class="bi bi-trash"></i></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Casa Abrigo Esperança</td>
+                        <td>33.222.111/0001-88</td>
+                        <td>(61) 99999-5555</td>
+                        <td>Av. Central, 890</td>
+                        <td>Recebe doações mensais</td>
+                        <td class="text-center">
+                            <a class="btn btn-sm btn-warning" href="#"><i class="bi bi-pencil"></i></a>
+                            <a class="btn btn-sm btn-danger" href="#"><i class="bi bi-trash"></i></a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.js"></script>
+    <script>
+        document.getElementById("btnBuscarDonatario").addEventListener("click", function () {
+            const termo = document.getElementById("searchDonatario").value.toLowerCase();
+            const linhas = document.querySelectorAll("tbody tr");
+            linhas.forEach(linha => {
+                const texto = linha.textContent.toLowerCase();
+                linha.style.display = texto.includes(termo) ? "" : "none";
+            });
+        });
+    </script>
+}

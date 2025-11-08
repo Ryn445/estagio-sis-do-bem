@@ -1,6 +1,6 @@
 ﻿namespace SisDoBem.Models
 {
-    public class Entrada
+    public class Categoria
     {
     }
 }
