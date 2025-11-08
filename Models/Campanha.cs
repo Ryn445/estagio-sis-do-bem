@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.Collections.Generic;
+using SisDoBem.Models.Enums;
 
 namespace SisDoBem.Models
 {
@@ -16,12 +17,9 @@ namespace SisDoBem.Models
         public DateTime DataDeTermino { get; set; }
         public decimal MetaFinanceira { get; set; }
         public decimal TotalArrecadado { get; set; }
-        public string Status { get; set; } // Ativa, Concluída, Cancelada
+        public StatusDaCampanha Status { get; set; } // Ativa, Concluída, Cancelada
         public DateTime DataDeCadastro { get; set; } = DateTime.Now;
         public DateTime DataDeAtualizacao { get; set; } = DateTime.Now;
-        public override string ToString()
-        {
-            return Nome;
-        }
+        
     }
 }
